@@ -1,1 +1,1 @@
-print ("this is forth version")
+print ("this is forth version, second part")
